@@ -1,9 +1,30 @@
-### Hi there 👋
+### Hi there, check out my stuff:
 
-I work as a media effects researcher. I primarily write data analysis packages in Python and R, plus some occasional web apps in C#.
+R packages:
 
-- 🔭 I’m currently working on Monte Carlo simulations for factorial designs
-- 🌱 I’m currently learning more about design patterns for software architecture
-- 📫 Contact me through [peterdahlgren.com](https://peterdahlgren.com/) or [@peterdalle](https://twitter.com/peterdalle)
+- **[semproducible](https://github.com/peterdalle/semproducible)** - code generator that reproduce lavaan models
+- **[tidysummary](https://github.com/peterdalle/tidysummary)** - create summaries of data frames
+- **[pomotitle](https://github.com/peterdalle/pomotitle)** - generate postmodernist titles
 
-Senskar bör kolla in [svensktext](https://github.com/peterdalle/svensktext) och [markivet](https://github.com/peterdalle/markivet).
+Python packages:
+
+- **[twitterbot](https://github.com/peterdalle/twitterbot)** - post RSS links to Twitter, searches for keywords to retweet
+- **[mechanicalnews](https://github.com/peterdalle/mechanicalnews)** - crawls and saves articles from news sites
+- **[pathbuilder](https://github.com/peterdalle/pathbuilder)** - create paths from keywords
+- **[redirlookup](https://github.com/peterdalle/redirlookup)** - follows URL redirects and display route
+- **[comparefiles](https://github.com/peterdalle/comparefiles)** - find and compare file similarity
+
+Data & resources: 
+
+- **[effectsizes](https://github.com/peterdalle/effectsizes)** - one hundred years of social psychology quantitatively described
+- **[effectsizes-comm](https://github.com/peterdalle/effectsizes-comm)** - effect sizes from 60 years of communication research
+- **[mediacommtools](https://github.com/peterdalle/mediacommtools)** - tools/resources for journalism, media, communication, computational social science
+- **[social-science-diagrams](https://github.com/peterdalle/social-science-diagrams)** - How to make common social science diagrams using DiagrammeR and Graphviz
+- **[academic-article-template](https://github.com/peterdalle/academic-article-template)** - pandoc templates from markdown to pdf
+- **[pandoc](https://github.com/peterdalle/pandoc)** - links to pandoc resources
+
+Swedish:
+
+- **[svensktext](https://github.com/peterdalle/svensktext)** - svenska språkresurser för maskininlärning m.m.
+- **[markivet](https://github.com/peterdalle/markivet)** - converts Retriever Mediearkivet into structured files
+- **[faktiskt](https://github.com/peterdalle/faktiskt)** - alla faktagranskningar från Faktiskt.se
