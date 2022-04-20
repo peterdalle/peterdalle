@@ -1,3 +1,5 @@
+<img src="python.png" width="50" height="50" alt="Python"> <img src="dotnet.png" width="50" height="50" alt=".NET"> <img src="r.png" width="65" height="50" alt="R">
+
 ### Hi there, check out my stuff:
 
 R packages:
