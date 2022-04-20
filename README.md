@@ -1,4 +1,4 @@
-<img src="python.png" width="50" height="50" alt="Python"> <img src="dotnet.png" width="50" height="50" alt=".NET"> <img src="r.png" width="65" height="50" alt="R">
+<img src="python.png" width="50" height="50" alt="Python" title="Python"> <img src="dotnet.png" width="50" height="50" alt=".NET" title=".NET"> <img src="r.png" width="65" height="50" alt="R" title="R">
 
 ### Hi there, check out my stuff:
 
@@ -24,6 +24,8 @@ Data & resources:
 - **[social-science-diagrams](https://github.com/peterdalle/social-science-diagrams)** - How to make common social science diagrams using DiagrammeR and Graphviz
 - **[academic-article-template](https://github.com/peterdalle/academic-article-template)** - pandoc templates from markdown to pdf
 - **[pandoc](https://github.com/peterdalle/pandoc)** - links to pandoc resources
+
+<img src="sweden.png" width="48" height="30" alt="Flag of Sweden" title="Sweden">
 
 Swedish:
 
