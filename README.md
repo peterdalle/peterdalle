@@ -25,6 +25,6 @@ Data & resources:
 
 Swedish:
 
-- **[svensktext](https://github.com/peterdalle/svensktext)** - svenska språkresurser för maskininlärning m.m.
+- **[svensktext](https://github.com/peterdalle/svensktext)** - svenska språkresurser för maskininlärning m.m. (se även **[R-paket](https://github.com/peterdalle/svensktext-rpackage)**)
 - **[markivet](https://github.com/peterdalle/markivet)** - converts Retriever Mediearkivet into structured files
 - **[faktiskt](https://github.com/peterdalle/faktiskt)** - alla faktagranskningar från Faktiskt.se
