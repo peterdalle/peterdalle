@@ -16,8 +16,9 @@ Python packages:
 - **[redirlookup](https://github.com/peterdalle/redirlookup)** - follows URL redirects and display route
 - **[comparefiles](https://github.com/peterdalle/comparefiles)** - find and compare file similarity
 
-Data & resources: 
+Data, books & resources: 
 
+- **[how-scientlists-lie](https://github.com/peterdalle/how-scientists-lie)** - book on questionable research practices (QRPs)
 - **[effectsizes](https://github.com/peterdalle/effectsizes)** - one hundred years of social psychology quantitatively described
 - **[effectsizes-comm](https://github.com/peterdalle/effectsizes-comm)** - effect sizes from 60 years of communication research
 - **[mediacommtools](https://github.com/peterdalle/mediacommtools)** - tools/resources for journalism, media, communication, computational social science
